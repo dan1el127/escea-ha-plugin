@@ -8,6 +8,6 @@
     "models": ["Escea"]
   },
   "iot_class": "local_push",
-  "requirements": ["git+https://github.com/dan1el127/pescea.git@master"],
+  "requirements": ["git+https://github.com/dan1el127/pescea.git@master#egg=pescea"],
   "version": "1.1.1"
 }
